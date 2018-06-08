@@ -1,4 +1,4 @@
-# o2-atom theme
+# o2-atom-bright theme
 
 A custom theme with focused/blurred pane support. Syntax highlighting mostly supports frontend languages.
 

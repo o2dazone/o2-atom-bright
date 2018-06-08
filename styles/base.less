@@ -14,7 +14,7 @@
 .syntax--comment {
   &,
   .syntax--block {
-    color: @darkgrey;
+    color: lighten(@darkgrey,7%);
   }
 }
 
@@ -37,6 +37,7 @@
 
 .syntax--storage {
   color: @green;
+  font-style: italic;
 }
 
 .syntax--entity.syntax--name.syntax--function {

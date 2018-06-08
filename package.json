@@ -1,13 +1,13 @@
 {
-  "name": "o2-atom",
+  "name": "o2-atom-bright",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "description": "o2 atom bright",
   "keywords": [
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/o2-atom",
+  "repository": "https://github.com/atom/o2-atom-bright",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
